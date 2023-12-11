@@ -9,4 +9,4 @@
 
 📮 Email: [jiengup@gmail.com](mailto:jiengup@gmail.com)
 
-😋 Something drives me to go ahead, work hard, and thank life [My Reasons For Live](https://reason-for-live.pages.dev)
+😋 [My Reasons For Live](https://reason-for-live.pages.dev) drives me to go ahead, work hard, and thank life
