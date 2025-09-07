@@ -1,9 +1,6 @@
-🏫 Second-year master's student majoring in Computer Architecture at [HUST](https://www.hust.edu.cn)
-
 🤔 Interested in 
 - **Machine Learning System**
-- **Intalligent Distributed Storage System**
-- **Resource Scheduling**
+- **Storage System**
 
 📑 Blog：[jiengup.github.io](http://jiengup.github.io)
 
